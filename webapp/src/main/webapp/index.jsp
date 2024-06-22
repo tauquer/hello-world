@@ -9,4 +9,3 @@ The content of the document......
 
 </body>
 </html> 
- <img src="img_girl.jpg" alt="Girl in a jacket">
