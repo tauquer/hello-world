@@ -41,4 +41,8 @@
       <a href="#" style="color:white" class="btn">Forgot password?</a>
     </div>
   </div>
-</div> 
+</div>
+ <div class="container">
+  <img src="img_snow.jpg" alt="Snow">
+  <button class="btn">Button</button>
+</div>
